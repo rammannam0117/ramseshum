@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on AI-powered Resume Analyzer applications using Java, Spring Boot, OpenAI GPT, React & Microservices Architecture<br><br>👯 I’m looking to collaborate on Full Stack Java, Cloud-Native, Generative AI & Enterprise Microservices projects<br><br>🤝 I’m looking for help with advanced AI integrations, scalable distributed systems, Kubernetes optimization & production-grade system design<br><br>🌱 I have strong hands on experience on LLM Engineering, Retrieval-Augmented Generation (RAG), Kubernetes, AWS Cloud Architecture & AI-powered SaaS development<br><br>💬 Ask me about Java 17, Spring Boot, Microservices, REST APIs, Kafka, React.js, Angular, Docker, Kubernetes, AWS, Azure & CI/CD Automation<br><br>⚡ Fun fact: I enjoy building enterprise-scale backend systems & transforming traditional applications into AI-driven cloud-native platforms
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ram-m-24c111970) 
